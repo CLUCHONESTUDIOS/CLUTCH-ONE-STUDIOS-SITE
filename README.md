@@ -21,3 +21,6 @@ Open `index.html`, or run `python -m http.server 8000` in this folder and visit 
 - Publish installers only after they are signed, tested, and ready.
 
 This is a website package, not a published/live website. It has no working contact form, support backend, analytics, account system, or software download hosting.
+
+
+Brand update: the approved C1 STUDIOS brushed-silver/crimson logo is stored at `assets/clutch-one-studios-logo.png` and used in the site header/footer and product showcase. Keep this image in the same assets folder when deploying.
